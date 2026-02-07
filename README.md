@@ -1,9 +1,6 @@
 # edge-sem-vision
 Edge AI project for detecting and classifying defects in SEM images, with defect localization, yield calculation, and ONNX deployment.
 
-# Edge SEM Vision
-Edge AI system for detecting and classifying defects in SEM images using deep learning.
-
 ## Features
 - SEM image classification
 - Patch-based defect localization
