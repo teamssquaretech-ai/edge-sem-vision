@@ -31,6 +31,8 @@ Each of the above folders contains the following class subfolders:
 - VIAS  
 
 Total Classes: 12 (1 Clean + 11 Defect Categories)
+Dataset link: [Download CleanDataset.zip](https://drive.google.com/uc?export=download&id=1bWkKMjLqghkPmVGUKR6vS9YlTUVqHSfg)
+
 
 ## Model
 - Backbone: MobileNetV2 (Transfer Learning)
